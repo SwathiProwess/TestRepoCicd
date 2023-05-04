@@ -40,7 +40,7 @@
 						<connectedAppClientId>cd8a539f65464c4ca8ceec91b1105ba2</connectedAppClientId>
   						<connectedAppClientSecret>aCBC8E5197624A3F810951551E15aF7f</connectedAppClientSecret>
 					    <connectedAppGrantType>client_credentials</connectedAppGrantType>
-						<applicationName>iewc-munit-may2</applicationName>
+						<applicationName>iewc-munit-may5</applicationName>
 						<environment>Development</environment>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
